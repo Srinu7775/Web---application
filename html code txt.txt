@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Numeric Input Example</title>
+  <title>Numeric Input balaji</title>
 </head>
 <body>
   <h2>Enter a Number:</h2>
@@ -12,3 +12,4 @@
   </form>
 </body>
 </html>
+
